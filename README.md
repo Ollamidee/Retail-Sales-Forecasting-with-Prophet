@@ -1,4 +1,3 @@
-````markdown
 ### Retail Sales Forecasting with Prophet
 
 ### Project Title
@@ -52,12 +51,12 @@ The dataset used for this project is the "E-Commerce Data" dataset, publicly ava
 
 ### Step 3: Python Environment
 1. **Clone the repository:**
-   ```bash
+   ```
    git clone [https://github.com/Ollamidee/Retail-Sales-Forecasting-with-Prophet.git](https://github.com/Ollamidee/Retail-Sales-Forecasting-with-Prophet.git)
-````
+  ```
 
 2.  **Navigate to the project directory:**
-    ```bash
+    ```
     cd Retail-Sales-Forecasting-with-Prophet
     ```
 3.  **Install the required libraries:**
