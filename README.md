@@ -54,7 +54,6 @@ The dataset used for this project is the "E-Commerce Data" dataset, publicly ava
    ```
    git clone [https://github.com/Ollamidee/Retail-Sales-Forecasting-with-Prophet.git](https://github.com/Ollamidee/Retail-Sales-Forecasting-with-Prophet.git)
   ```
-
 2.  **Navigate to the project directory:**
     ```
     cd Retail-Sales-Forecasting-with-Prophet
